@@ -10,8 +10,8 @@
   <IceSheet.label>mannerjää</IceSheet.label>
   <IceSheet.description>Maaperä on peittynyt jopa kilometrien paksuisten jääkerrosten alle. Täällä ei ole yhteyttä maahan tai kallioon, joten täällä ei ole kasveja. Ainoat täällä olevat eläimet ovat vaeltamassa muualle - tai pahasti hukassa.</IceSheet.description>
 
-  <SeaIce.label>sea ice</SeaIce.label>
-  <SeaIce.description>Permanent ice sheets floating on water. There is no soil, no plants, no minerals to mine, and very few animals. Travel is very slow due to the deep snow and crevasses.</SeaIce.description>
+  <SeaIce.label>jäätä merellä</SeaIce.label>
+  <SeaIce.description>Merellä kelluvaa jäätä. Ei maaperää, kasveja, eikä mineraaleja louhittavaksi. Erittäin vähän eläimiä. Matkustaminen erittäin hidasta lumen ja railojen vuoksi.</SeaIce.description>
 
 
 </LanguageData>
